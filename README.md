@@ -1,16 +1,11 @@
-### Hi there 👋
+Welcome! Here are some projects I've been working on lately:
 
-<!--
-**danielacorner/danielacorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/)
+1. [⚡🦠 Virus Thunderdome](https://virus-thunderdome.netlify.app/)
+1. [🌳 youtube-forest](http://youtube-forest.netlify.app/)
+1. [🎲 20d](https://20d.netlify.app/)
+1. [Shortcut ⚡ School](https://shortcut.school/)
+1. [MD deck builder 🐱‍🚀](https://mdx-online.netlify.app/)
+1. [💬 Voice Translater](https://mdx-online.netlify.app/)
+1. [Twitter Viz 🐤](https://twitter-viz.netlify.app/)
+1. [Goodjob 🎈 Explore Canadian Careers](https://danielacorner.github.io/pave__react/)
