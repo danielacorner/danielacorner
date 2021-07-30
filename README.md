@@ -1,5 +1,6 @@
 Welcome! Here are some projects I've been working on lately:
 
+1. (coming soon) Twitter Botsketball 🤖🏀
 1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/)
 1. [⚡🦠 Virus Thunderdome](https://virus-thunderdome.netlify.app/)
 1. [🌳 youtube-forest](http://youtube-forest.netlify.app/)
@@ -11,4 +12,4 @@ Welcome! Here are some projects I've been working on lately:
 1. [🖼 Hyeranart](https://hyeranart.netlify.app/)
 1. [Goodjob 🎈 Explore Canadian Careers](https://danielacorner.github.io/pave__react/)
 
-I'm also on Twitter -> [![Twitter Follow](https://img.shields.io/twitter/follow/danielacorner.svg?style=social)](https://twitter.com/danielacorner)  
+I'm also on Twitter ➡️ [![Twitter Follow](https://img.shields.io/twitter/follow/danielacorner.svg?style=social)](https://twitter.com/danielacorner)  
