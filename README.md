@@ -10,3 +10,5 @@ Welcome! Here are some projects I've been working on lately:
 1. [Twitter Viz 🐤](https://twitter-viz.netlify.app/)
 1. [🖼 Hyeranart](https://hyeranart.netlify.app/)
 1. [Goodjob 🎈 Explore Canadian Careers](https://danielacorner.github.io/pave__react/)
+
+I'm also on Twitter -> [![Twitter Follow](https://img.shields.io/twitter/follow/danielacorner.svg?style=social)](https://twitter.com/danielacorner)  
