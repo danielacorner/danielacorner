@@ -1,6 +1,7 @@
 Welcome! Here are some projects I've been working on lately:
 
-1. (coming soon) Twitter Botsketball 🤖🏀
+1. (under construction 👷‍♂️⚒) [Goodjob 2 🎈 Scrollyteller](https://www.botsketball.com/)
+1. (under construction 👷‍♂️⚒) [🤖 Plenty of Bots 🎣](https://www.botsketball.com/)
 1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/)
 1. [⚡🦠 Virus Thunderdome](https://virus-thunderdome.netlify.app/)
 1. [🌳 youtube-forest](http://youtube-forest.netlify.app/)
