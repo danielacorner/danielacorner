@@ -1,7 +1,7 @@
 Welcome! Here are some projects I've been working on lately:
 
 1. (under construction 👷‍♂️⚒) [boomerang game](https://boomeranggame.netlify.app)
-1. (under construction 👷‍♂️⚒) [some kinda AR memory palace](https://arhittest.netlify.app)
+1. (under construction 👷‍♂️⚒) [some kinda AR memory palace](https://arhittest.netlify.app) - mobile Chrome only (html-in-ar is an experimental feature)
 1. (under construction 👷‍♂️⚒) [Goodjob 2 🎈 Scrollyteller](https://www.botsketball.com/)
 1. (under construction 👷‍♂️⚒) [🤖 Plenty of Bots 🎣](https://www.botsketball.com/)
 1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/)
