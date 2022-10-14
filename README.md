@@ -4,7 +4,7 @@ Welcome! Here are some projects I've been working on lately:
 1. [3d doohickey 🤹‍](https://doohickey.netlify.app/)
 1. [boomerang game](https://boomeranggame.netlify.app)
 1. [some kinda AR memory palace](https://arhittest.netlify.app) - mobile Chrome only (html-in-ar is an experimental feature)
-1. [🤖 Plenty of Bots 🎣](https://www.botsketball.com/)
+1. [🤖 Plenty of Bots 🎣](https://botsketball.netlify.app/)
 1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/)
 1. [⚡🦠 Virus Thunderdome](https://virus-thunderdome.netlify.app/)
 1. [🌳 youtube-forest](http://youtube-forest.netlify.app/)
