@@ -1,6 +1,7 @@
-Welcome! Here are some projects I've been working on lately:
+Welcome! Here are some projects and experiments:
 
-1. (under construction 👷‍♂️⚒) [Goodjob 2 🎈 Scrollyteller](https://goodjobvis.netlify.app)
+1. [Chatsh disappearing chatroom](https://chatsh.fly.dev/)
+1. [Goodjob 2 🎈 Scrollyteller](https://goodjobvis.netlify.app)
 1. [3d doohickey 🤹‍](https://doohickey.netlify.app/)
 1. [boomerang game](https://boomeranggame.netlify.app)
 1. [some kinda AR memory palace](https://arhittest.netlify.app) - mobile Chrome only (html-in-ar is an experimental feature)
