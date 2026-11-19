@@ -7,7 +7,6 @@ Some older projects and experiments:
 1. [Virus 🦠 Terrarium](https://virus-terrarium.netlify.app/): real virus capsids from the Protein Data Bank, in 3D with physics
 1. [⚡🦠 Virus Thunderdome](https://virus-thunderdome.netlify.app/)
 1. [Goodjob 🎈 Explore Canadian Careers](https://danielacorner.github.io/pave__react/): data viz of Canadian jobs (NOC dataset)
-1. [Goodjob 2 🎈 Scrollyteller](https://goodjobvis.netlify.app)
 1. [🤖 Plenty of Bots 🎣](https://botsketball.netlify.app/)
 1. [3d doohickey 🤹‍](https://doohickey.netlify.app/)
 1. [boomerang game](https://boomeranggame.netlify.app)
